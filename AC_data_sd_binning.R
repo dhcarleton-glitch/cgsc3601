@@ -1,3 +1,5 @@
+#### Note: This file contains the R-code used to visualize the distribution of Flanker Squared Scores, and bin the cleaned data into Low, Medium, and High Performance groups. 
+
 #### Load Packages
 library(readxl)
 library(dplyr)
